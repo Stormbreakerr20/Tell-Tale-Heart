@@ -39,3 +39,10 @@ This platform aims to automate the approval process for events and purchases und
 A request for ₹14,000 equipment by Yantrik club will follow the regular approval chain and be visible to the Students Office only after approval.
 
 This platform aims to streamline the approval process, saving time and ensuring efficient resource allocation for student activities.
+
+## Project Gallery
+![Club Dashboard](https://github.com/singhekansh/Tell-Tale-Heart/blob/main/frontend/public/images/Club.png)
+
+![Clubs/Society CRUD](https://github.com/singhekansh/Tell-Tale-Heart/blob/main/frontend/public/images/Dean.png)
+
+![FA/Secretary Dashboard](https://github.com/singhekansh/Tell-Tale-Heart/blob/main/frontend/public/images/FA.png)
